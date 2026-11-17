@@ -214,7 +214,8 @@ python FirstAgentTest.py
 
 ### 实际输出
 
-![Task00 ReAct 循环跑通截图](task00-run-success.png)
+![Task01 智能体运行结果：三轮 ReAct 循环](task01-run-success.png)
+
 
 从输出可以看到完整的 Agent Loop：
 
